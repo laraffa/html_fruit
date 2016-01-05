@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+  <html>
+  <title>Fruit</title>
+  <h2> HEADER</h2>
+  <p> This is my paragraph</p>
+  <ul>
+    <li>Peaches</li>
+    <li>Strawberries</li>
+    <li>Apples</li>
+  </ul>
+  </html>
